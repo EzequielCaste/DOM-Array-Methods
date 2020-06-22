@@ -1,17 +1,19 @@
-What does the app do?
-- shows a list a names and their wealth
-- user name is received from API
-- wealth is calculated with Random function
+### Practice Array Methods and DOM manipulation
 
-Add User Button
-- adds 1 new user to the list
+**What does the app do?**
+- Shows a list a names and their wealth
+- User name is received from API
+- Wealth is calculated with Random function
 
-Double Money Button
-- multiplies the wealth of every user by 2
+**Add User Button**
+- Adds 1 new user to the list
 
-Show Millionaires Button
-- only display those users whose wealth is greather than 1,000,000
+**Double Money Button**
+- Multiplies the wealth of every user by 2
+
+**Show Millionaires Button**
+- Only display those users whose wealth is greather than 1,000,000
 (in other words: remove those users with less than 1,000,000 wealth)
 
-Sort by Richest Button
-- sort the list by highest wealth
+**Sort by Richest Button**
+- Sort the list by highest wealth
